@@ -1,0 +1,2 @@
+# tea.bsc
+Tea tesnet
